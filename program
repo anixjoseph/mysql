@@ -1,0 +1,20 @@
+write a program to print the positive difference of any two numbers
+
+
+
+if num1>num2;
+  diff=num1-num2
+else;
+ diff num2-num1
+ print("The difference of{} and {}is {}".format(Num1,num2,diff)
+                  
+                  
+                  OR
+                  
+                 
+   num1=float(input("1st Number;))
+   num2=float(input(2nd Number;))
+   diff=num1-num2
+  if diff<o:
+    diff=diff*-1
+  print("The difference of {} and {} is{}".format(num1,num2,diff))
