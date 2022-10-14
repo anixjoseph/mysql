@@ -1,0 +1,10 @@
+to list all the tuples from emp table
+
+
+Select*
+from emp;
+
+to list the names of employees along with their salaries from emp table
+
+Select ename,sal
+from emp;
